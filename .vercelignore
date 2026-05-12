@@ -1,0 +1,6 @@
+.venv
+__pycache__
+*.pyc
+*.pyo
+supplychain.db
+supply_chain_analytics.png
